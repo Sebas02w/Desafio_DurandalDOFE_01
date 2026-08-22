@@ -8,7 +8,7 @@ El problema de fondo es que un servidor sin respaldo se convierte en un único p
 
 ## Lo que proponemos
 
-Para resolver esta vulnerabilidad, sugerimos montar un arreglo **RAID 5**.
+Para resolver esta vulnerabilidad, sugerimos montar un arreglo RAID 5.
 
 ## ¿Por qué RAID 5?
 
