@@ -14,7 +14,7 @@ Para resolver esta vulnerabilidad, sugerimos montar un arreglo RAID 5.
 
 La tecnología RAID permite agrupar varios discos físicos para que el sistema los maneje como una sola unidad lógica. En el caso del nivel 5, combina dos cosas: reparte los datos entre los discos (lo que agiliza la lectura y escritura) y, al mismo tiempo, guarda información de paridad que permite reconstruir los datos si un disco falla. En otras palabras, se gana rendimiento sin sacrificar seguridad.
 
-Esto responde justamente a lo que necesita InnovaCloud Solutions: si uno de los discos del arreglo deja de funcionar, la información se conserva y el servidor principal puede seguir operando sin problemas.
+Esto responde justamente a lo que necesita InnovaCloud Solutions, si uno de los discos del arreglo llegara a fallar y dejara de funcionar, la información se conserva y el servidor principal puede seguir operando sin problemas.
 
 ## Secuencia de los comandos para implementar la solución
 
