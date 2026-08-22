@@ -2,7 +2,7 @@
 
 **Autor:** Sebastian Fernando Calles Lemus
 
-InnovaCloud Solutions está atravesando teniendo dificultades respecto al almacenamiento,  su servidor principal presenta fallos de disco recurrentes y, al no contar con redundancia, cada avería implica la pérdida de información.
+InnovaCloud Solutions está atravesando teniendo dificultades respecto al almacenamiento, su servidor principal presenta fallos de disco recurrentes y al no contar con redundancia cada avería implica la pérdida de información.
 
 El problema de fondo es que un servidor sin respaldo se convierte en un único punto de fallo. Si el disco físico se daña, los servicios y aplicaciones alojados quedan fuera de línea por completo, lo que significa tiempos largos de inactividad. A esto se suma la pérdida de datos empresariales que no solo afecta la operación diaria, sino que pone en riesgo la integridad de la información de los clientes. Las consecuencias pueden ser graves: gastos de recuperación, daño a la reputación de la consultora y también afecta a la continuidad del negocio.
 
