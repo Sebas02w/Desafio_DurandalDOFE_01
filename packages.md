@@ -1,5 +1,5 @@
 # Gestión de Paquetes
-
+**Autor:** [Josué Menjivar]
 ## Problema identificado
 
 InnovaCloud Solutions realiza la instalación de paquetes de software de forma manual en sus diferentes equipos. Esta forma de trabajo puede provocar inconsistencias, ya que algunos equipos podrían instalar diferentes versiones de un mismo programa o realizar actualizaciones en momentos distintos.
