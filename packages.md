@@ -14,7 +14,7 @@ El repositorio local funcionará como un punto central para la gestión de paque
 
 El funcionamiento general de la solución sería el siguiente:
 
-El servidor Mirror Local InnovaCloud Solutions estaria sincronizado con el repositorio oficial de Ubuntu y el servidor mirror alimentaria con la gestion de paquetes a la red interna de la empresa
+El servidor Mirror Local InnovaCloud Solutions estaria sincronizado con el repositorio oficial de Ubuntu y el servidor mirror alimentaria con la gestion de paquetes a la red interna de la empresa.
 
 Para crear y mantener una copia local de los repositorios se puede utilizar la herramienta `apt-mirror`.
 
