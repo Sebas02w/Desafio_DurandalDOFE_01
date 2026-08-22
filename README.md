@@ -253,7 +253,7 @@ En conjunto, estas medidas permiten construir una infraestructura más **estable
 [Desafío DurandalDOFE 01 - InnovaCloud Solutions](https://github.com/Sebas02w/Desafio_DurandalDOFE_01)
 
 **Video de defensa:**
-[Enlace al video de la defensa](#)
+[Enlace al video de la defensa](https://youtu.be/5_VxX5RI33M)
 
 
 ---
